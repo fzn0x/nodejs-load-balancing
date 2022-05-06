@@ -25,10 +25,10 @@ request -------> server ----------> core 1
 TIL 5/6/2022 Using NGINX to balance your server load: [example](./multiple-instances)
 
 ```
-request -------> nginx ----------> server1
+request -------> nginx ----------> server 1
                    |    
                    |
-                   |-------------> server2
+                   |-------------> server 2
 ```
 
 ## License
